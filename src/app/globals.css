@@ -25,3 +25,5 @@ footer{background:#131313;color:white;padding:70px 5vw 25px}.footer-top{display:
 	.gallery-slider-track{height:min(97.5vw,350px)}
 	.gallery-item{height:auto;aspect-ratio:4/5}
 }
+
+.load-more{display:block;margin-left:auto;margin-right:auto}
